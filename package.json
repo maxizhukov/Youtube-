@@ -14,7 +14,7 @@
   "author": "Max Zhukov",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-telegram-bot-api": "^0.50.0",
     "telegraf": "^3.38.0"
   }
